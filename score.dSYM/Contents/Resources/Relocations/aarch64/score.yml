@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/karen/prog2/report7/creport1.c/score'
+relocations:     []
+...
